@@ -2,10 +2,9 @@
 
 namespace Modernben\TrackLogins;
 
-use Spatie\LaravelPackageTools\Package;
 use Modernben\TrackLogins\Commands\TrackLoginsCommand;
+use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Modernben\TrackLogins\TrackLoginsEventServiceProvider;
 
 class TrackLoginsServiceProvider extends PackageServiceProvider
 {
@@ -27,7 +26,6 @@ class TrackLoginsServiceProvider extends PackageServiceProvider
 
     public function registeringPackage()
     {
-
         $this->app->register(TrackLoginsEventServiceProvider::class);
     }
 }

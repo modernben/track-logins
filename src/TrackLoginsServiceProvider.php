@@ -27,7 +27,6 @@ class TrackLoginsServiceProvider extends PackageServiceProvider
 
     public function registeringPackage()
     {
-
         $this->app->register(TrackLoginsEventServiceProvider::class);
     }
 }

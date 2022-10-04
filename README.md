@@ -1,8 +1,6 @@
 # A package to quickly add on a login log
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/modernben/track_logins.svg?style=flat-square)](https://packagist.org/packages/modernben/track_logins)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/modernben/track_logins/run-tests?label=tests)](https://github.com/modernben/track_logins/actions?query=workflow%3Arun-tests+branch%3Amaster)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/modernben/track_logins/Check%20&%20fix%20styling?label=code%20style)](https://github.com/modernben/track_logins/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/modernben/track_logins.svg?style=flat-square)](https://packagist.org/packages/modernben/track_logins)
 
 ## Installation
